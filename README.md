@@ -1,6 +1,6 @@
 #ENPRIV
 
-# 🎮 Backend para E-commerce "Ez4gamers"
+# 🎮 Backend para E-commerce 
 
 Este es el corazón de la plataforma de e-commerce "Ez4gamers". Un backend robusto construido con Java y Spring Boot, diseñado para manejar toda la lógica de negocio, desde el catálogo de productos hasta la gestión de usuarios.
 
